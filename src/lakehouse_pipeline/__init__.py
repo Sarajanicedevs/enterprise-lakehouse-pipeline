@@ -1,0 +1,1 @@
+"""Example incremental lakehouse processing."""
