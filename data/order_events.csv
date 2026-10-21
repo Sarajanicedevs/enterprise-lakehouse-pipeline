@@ -1,0 +1,5 @@
+event_id,order_id,customer_id,amount,status,version
+evt1,o1,c1,12.50,placed,1
+evt2,o1,c1,12.50,paid,2
+evt3,o2,c2,33.00,paid,1
+evt4,o2,c2,33.00,paid,1
